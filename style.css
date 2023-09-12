@@ -1,0 +1,36 @@
+style.css
+body {
+    background-color:palegoldenrod;
+}
+body {
+    color: black;
+}
+body{
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+h1{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+.navbar{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.navbar > li{
+    border:1px black;
+    background-color: cadetblue;
+    width: 150px;
+    border: 1px black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
